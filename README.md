@@ -1,0 +1,1 @@
+I built this project to sharpen my Python logic and move from theory to practice. It’s a classic hangman-style word game where the player competes against the computer to uncover a secret word before running out of attempts.
